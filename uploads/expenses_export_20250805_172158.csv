@@ -1,0 +1,39 @@
+date,amount,description,category,is_outlier
+2025-07-21,3116.57,Grocery shopping,Food,False
+2025-07-21,21348.39,Salary credit,Other,True
+2025-07-21,4389.02,Gym fee,Healthcare,False
+2025-07-22,4713.66,Dinner at restaurant,Food,False
+2025-07-23,18976.73,Freelance payment,Other,True
+2025-07-23,4344.12,Online course,Education,False
+2025-07-23,621.54,Petrol refill,Other,False
+2025-07-24,4212.54,Medicine,Healthcare,False
+2025-07-24,4734.13,Gym fee,Healthcare,False
+2025-07-25,2720.5,Dinner at restaurant,Food,False
+2025-07-26,4882.52,Internet bill,Bills,False
+2025-07-27,2176.07,Dinner at restaurant,Food,False
+2025-07-27,4362.58,Clothes shopping,Shopping,False
+2025-07-27,14962.91,Freelance payment,Other,True
+2025-07-27,259.84,Grocery shopping,Food,False
+2025-07-28,3976.33,Online course,Education,False
+2025-07-28,4018.18,Petrol refill,Other,False
+2025-07-28,4911.37,Clothes shopping,Shopping,False
+2025-07-29,3238.68,Dinner at restaurant,Food,False
+2025-07-29,4387.23,Medicine,Healthcare,False
+2025-07-29,24574.2,Freelance payment,Other,True
+2025-07-29,1200.1,Electricity bill,Bills,False
+2025-07-30,774.35,Dinner at restaurant,Food,False
+2025-07-30,4169.58,Medicine,Healthcare,False
+2025-07-30,2094.52,Medicine,Healthcare,False
+2025-07-30,1070.7,Internet bill,Bills,False
+2025-07-31,1446.77,Movie,Entertainment,False
+2025-07-31,1930.53,Dinner at restaurant,Food,False
+2025-07-31,1348.2,Movie,Entertainment,False
+2025-08-01,1362.42,Online course,Education,False
+2025-08-01,1687.64,Online course,Education,False
+2025-08-01,5836.07,Salary credit,Other,False
+2025-08-01,3806.93,Taxi ride,Other,False
+2025-08-02,2618.04,Clothes shopping,Shopping,False
+2025-08-03,3267.76,Petrol refill,Other,False
+2025-08-03,4209.13,Grocery shopping,Food,False
+2025-08-03,3249.49,Dinner at restaurant,Food,False
+2025-08-05,45.5,Grocery shopping at Walmart,Food,

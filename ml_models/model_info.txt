@@ -1,0 +1,41 @@
+# ML Models Information
+Generated on: 2025-08-29 14:01:12
+
+## Models Trained:
+1. **Category Prediction Model** (category_model.pkl)
+   - Predicts expense category from description
+   - Uses TF-IDF vectorization + Logistic Regression
+   - Vectorizer saved in preprocessors/tfidf_vectorizer.pkl
+
+2. **Anomaly Detection Model** (anomaly_model.pkl)
+   - Detects unusual spending patterns
+   - Uses Isolation Forest algorithm
+   - Includes scaler and label encoder
+
+3. **Budget Depletion Model** (depletion_model.pkl)
+   - Predicts when budget will be exhausted
+   - Uses Ridge regression with temporal features
+   - Includes budget amount and start date
+
+4. **Smart Allocation Planner** (smart_allocation_model.pkl)
+   - Optimizes budget allocation across categories
+   - Includes category-specific spending predictors
+   - Uses multiple regression models
+
+## Usage:
+Load models using pickle:
+```python
+import pickle
+with open('ml_models/category_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+```
+
+## Files Structure:
+- ml_models/
+  - category_model.pkl
+  - anomaly_model.pkl
+  - depletion_model.pkl
+  - smart_allocation_model.pkl
+  - preprocessors/
+    - tfidf_vectorizer.pkl
+  - model_info.txt

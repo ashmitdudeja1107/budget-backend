@@ -1,0 +1,107 @@
+date,category,amount,description,is_outlier,day_of_week,is_weekend
+2025-07-01,Shopping,272.13,Gadgets,False,Tuesday,False
+2025-07-01,Other,747.05,Train ticket,False,Tuesday,False
+2025-07-02,Healthcare,590.43,Doctor visit,False,Wednesday,False
+2025-07-02,Bills,997.41,Internet,False,Wednesday,False
+2025-07-02,Food,514.24,Cafe,False,Wednesday,False
+2025-07-02,Other,62.81,Fuel,False,Wednesday,False
+2025-07-03,Healthcare,557.15,Health checkup,False,Thursday,False
+2025-07-03,Shopping,1071.71,Gadgets,False,Thursday,False
+2025-07-03,Entertainment,1441.36,Concert,False,Thursday,False
+2025-07-03,Healthcare,531.63,Doctor visit,False,Thursday,False
+2025-07-05,Bills,1226.53,Electricity bill,False,Saturday,True
+2025-07-05,Shopping,1458.52,Gadgets,False,Saturday,True
+2025-07-05,Entertainment,60.28,Games,False,Saturday,True
+2025-07-05,Other,279.66,Bus fare,False,Saturday,True
+2025-07-05,Food,229.81,Cafe,False,Saturday,True
+2025-07-05,Other,306.18,Chocolate,False,Saturday,True
+2025-07-05,Shopping,221.44,Accessories,False,Saturday,True
+2025-07-07,Healthcare,1057.4,Medicine,False,Monday,False
+2025-07-07,Shopping,315.77,Gadgets,False,Monday,False
+2025-07-07,Healthcare,1317.69,Medicine,False,Monday,False
+2025-07-07,Shopping,255.21,Clothes,False,Monday,False
+2025-07-07,Bills,634.88,Electricity bill,False,Monday,False
+2025-07-07,Other,505.14,Chips,False,Monday,False
+2025-07-07,Food,957.58,Dinner,False,Monday,False
+2025-07-08,Other,375.09,Bus fare,False,Tuesday,False
+2025-07-08,Other,819.87,Chips,False,Tuesday,False
+2025-07-08,Entertainment,1135.56,Concert,False,Tuesday,False
+2025-07-09,Food,964.32,Groceries,False,Wednesday,False
+2025-07-09,Entertainment,393.52,Streaming service,False,Wednesday,False
+2025-07-09,Food,132.93,Cafe,False,Wednesday,False
+2025-07-10,Other,882.7,Chips,False,Thursday,False
+2025-07-10,Food,128.49,Lunch,False,Thursday,False
+2025-07-10,Bills,601.2,Water bill,False,Thursday,False
+2025-07-10,Other,372.43,Soda,False,Thursday,False
+2025-07-10,Food,957.31,Dinner,False,Thursday,False
+2025-07-10,Entertainment,154.32,Streaming service,False,Thursday,False
+2025-07-10,Healthcare,838.72,Medicine,False,Thursday,False
+2025-07-11,Entertainment,736.94,Concert,False,Friday,False
+2025-07-11,Other,1234.05,Train ticket,False,Friday,False
+2025-07-11,Entertainment,1193.37,Concert,False,Friday,False
+2025-07-11,Other,1023.9,Taxi,False,Friday,False
+2025-07-12,Bills,469.39,Electricity bill,False,Saturday,True
+2025-07-12,Other,1259.52,Bus fare,False,Saturday,True
+2025-07-12,Bills,660.15,Internet,False,Saturday,True
+2025-07-12,Shopping,862.32,Accessories,False,Saturday,True
+2025-07-12,Other,652.7,Soda,False,Saturday,True
+2025-07-13,Healthcare,315.13,Health checkup,False,Sunday,True
+2025-07-13,Food,848.58,Lunch,False,Sunday,True
+2025-07-13,Other,936.83,Fuel,False,Sunday,True
+2025-07-14,Healthcare,1221.41,Health checkup,False,Monday,False
+2025-07-14,Bills,1200.63,Electricity bill,False,Monday,False
+2025-07-14,Entertainment,488.15,Games,False,Monday,False
+2025-07-15,Other,167.86,Taxi,False,Tuesday,False
+2025-07-15,Other,100000.0,Bought a gold-plated chocolate bar,True,Tuesday,False
+2025-07-15,Other,388.85,Bus fare,False,Tuesday,False
+2025-07-15,Other,506.88,Bus fare,False,Tuesday,False
+2025-07-16,Shopping,390.76,Clothes,False,Wednesday,False
+2025-07-17,Food,569.98,Lunch,False,Thursday,False
+2025-07-17,Food,481.11,Dinner,False,Thursday,False
+2025-07-17,Other,1133.33,Chocolate,False,Thursday,False
+2025-07-18,Shopping,658.46,Accessories,False,Friday,False
+2025-07-18,Food,374.67,Groceries,False,Friday,False
+2025-07-18,Bills,119.86,Internet,False,Friday,False
+2025-07-19,Bills,223.53,Internet,False,Saturday,True
+2025-07-19,Entertainment,392.27,Movie,False,Saturday,True
+2025-07-20,Healthcare,1351.94,Medicine,False,Sunday,True
+2025-07-20,Other,827.92,Bus fare,False,Sunday,True
+2025-07-20,Healthcare,1280.79,Health checkup,False,Sunday,True
+2025-07-20,Healthcare,675.46,Medicine,False,Sunday,True
+2025-07-20,Entertainment,1240.11,Concert,False,Sunday,True
+2025-07-20,Other,75000.0,Private jet fuel,True,Sunday,True
+2025-07-21,Food,120.23,Lunch,False,Monday,False
+2025-07-21,Entertainment,1221.06,Streaming service,False,Monday,False
+2025-07-22,Healthcare,1320.23,Health checkup,False,Tuesday,False
+2025-07-22,Other,526.27,Taxi,False,Tuesday,False
+2025-07-22,Other,302.09,Train ticket,False,Tuesday,False
+2025-07-22,Bills,412.41,Internet,False,Tuesday,False
+2025-07-22,Food,1069.64,Cafe,False,Tuesday,False
+2025-07-22,Shopping,930.2,Clothes,False,Tuesday,False
+2025-07-23,Other,137.74,Chips,False,Wednesday,False
+2025-07-23,Other,1134.33,Chocolate,False,Wednesday,False
+2025-07-23,Healthcare,1175.55,Health checkup,False,Wednesday,False
+2025-07-23,Bills,181.54,Water bill,False,Wednesday,False
+2025-07-24,Bills,1401.66,Electricity bill,False,Thursday,False
+2025-07-24,Entertainment,1319.98,Concert,False,Thursday,False
+2025-07-25,Other,590.99,Fuel,False,Friday,False
+2025-07-25,Other,131.11,Soda,False,Friday,False
+2025-07-25,Entertainment,894.89,Concert,False,Friday,False
+2025-07-25,Healthcare,50000.0,Unusually high for regular checkup,True,Friday,False
+2025-07-25,Shopping,679.19,Gadgets,False,Friday,False
+2025-07-26,Other,1089.92,Chocolate,False,Saturday,True
+2025-07-27,Healthcare,1228.04,Doctor visit,False,Sunday,True
+2025-07-27,Healthcare,128.72,Health checkup,False,Sunday,True
+2025-07-27,Shopping,1361.79,Clothes,False,Sunday,True
+2025-07-27,Shopping,162.62,Clothes,False,Sunday,True
+2025-07-27,Healthcare,1072.05,Health checkup,False,Sunday,True
+2025-07-28,Entertainment,325.03,Movie,False,Monday,False
+2025-07-28,Food,1094.74,Groceries,False,Monday,False
+2025-07-28,Other,1419.6,Chocolate,False,Monday,False
+2025-07-29,Entertainment,1066.57,Games,False,Tuesday,False
+2025-07-29,Other,877.57,Chocolate,False,Tuesday,False
+2025-07-30,Other,173.08,Soda,False,Wednesday,False
+2025-07-30,Other,1163.5,Chocolate,False,Wednesday,False
+2025-08-25,Food,2331.0,chola,,,
+2025-08-25,Food,2331.0,golgappa,,,
+2025-08-25,Food,23.0,melon,,,
